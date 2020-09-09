@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Keshab Luitel",
+    "occupation": "ReactJS && Python Developer",
+    "description": "Coder | Problem Solver | Always a learner. #LearnerKeshab ",
+    "image": "keshab.png",
+    "bio": "My name is keshab, I believe that I am a good team player with proven computing, programming and communication knowledge. I feel that I have thefollow-through and positive attitude that will allow me to achieve company targets.",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "keshabluitel20@gmail.com",
+    "phone": "+977 9861209590",
+    "address": {
+      "street": " Baniyatar, Gongabu",
+      "city": "Kathmandu, Nepal",
+      "zip": "44600"
+    },
+    
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/keshab.luitel.9",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/keshab-luitel-aba679148/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/keshabluitel/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/keshavluitel20",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Short write-up of my skills ",
+    "education": [
+      {
+        "school": "University of Wolverhampton, Herald College, kathmandu",
+        "degree": "BSc (Hons) Computer Science",
+        "graduated": "June 2020",
+        "description": "Graduated with First Class Honors"
+      }
+    ],
+    "work": [
+      {
+        "company": "Home Tutor",
+        "title": "Worked as a Home Tutor",
+        "years": "April 2016 - June 2018",
+        "description": "Teaching primary courses to thousands of students."
+      },
+      {
+        "company": "Internship at Herald College, Kathmandu",
+        "title": "IT support technician",
+        "years": "May 2018 - August 2019",
+        "description": "Network Operations"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "python",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Restaurant Management System",
+        "category": "RMS with Python, Django, PostgreSQL ",
+        "image": "RMS.png",
+        "url": "https://github.com/keshavluitel20/FYP_PROJECT"
+      },
+      {
+        "title": "Food Sales Prediction",
+        "category": "Implementation of food sales prediction in the restaurants using Machine Learning models.",
+        "image": "food sales prediction.png",
+        "url": "https://github.com/keshavluitel20/FYP_PROJECT"
+      },
+      {
+        "title": "Game Development",
+        "category": "Game development (Unity,C#)",
+        "image": "unity.png",
+        "url": "https://drive.google.com/drive/u/0/folders/1JnXmxy2rbLEbRJuxLsmO7QWrhvQ0hK62"
+      },
+      {
+        "title": "React projects",
+        "category": "Some small projects built with ReactJS",
+        "image": "react.png",
+        "url": "https://github.com/keshavluitel20/ReactJS"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Talk is cheap. Show me the code",
+        "user": "Linus Torvalds"
+      },
+      {
+        "text": " Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
+        "user": "Rick Cook"
+      }
+    ]
+  }
+}
